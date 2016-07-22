@@ -7,7 +7,7 @@ import rootReducer from './reducers/index';
 import comments from './data/comments';
 import posts from './data/posts';
 
-cons defaultState = {
+const defaultState = {
 	posts,
 	comments
 };
